@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="location_switch" type="id">location_switch</item>
+    <item name="place_autocomplete_fragment" type="id">place_autocomplete_fragment</item>
+    <item name="btnGo" type="id">btnGo</item>
+    <item name="edtPlace" type="id">edtPlace</item>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">google-play-android-developer</string>
+    <string name="google_direction_api">AIzaSyBNuRwV7NTSKxGYs8PdKx5vzHhCf9d1IxA</string>
+    <string name="title_activity_welcome">Map</string>
+</resources>
